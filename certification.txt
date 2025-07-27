@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the 紀哥web 1.0
+---------------------------------------------------
+
+app_name - 						紀哥web
+app_alias - 					web
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Taipei
+app_author_country - 			Taiwan Province of China
+app_password - 					lGeb8ZSJrOGY
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Monday 21st of April 2025 09:54:17 AM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
